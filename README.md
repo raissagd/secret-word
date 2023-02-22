@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Descubra a palavra secreta - Criando um jogo usando React
+![](https://github.com/raissagd/secret-word/blob/main/screenshot.PNG)
+
+Código feito ao longo de um módulo do curso 'React do Zero a Maestria', de Matheus Battistim, na [udemy](https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/) 
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
